@@ -1,4 +1,4 @@
-# Hi, I'm Fretuks 👋
+# Hi, I'm Fretux 👋
 
 Welcome to my GitHub profile! I enjoy turning ideas into clean, readable, and user‑friendly software. I’m especially interested in building thoughtful experiences, learning new tools, and collaborating with others.
 
