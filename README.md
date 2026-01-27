@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Fretuks 👋
 
-<!--
-**Fretuks/Fretuks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I enjoy turning ideas into clean, readable, and user‑friendly software. I’m especially interested in building thoughtful experiences, learning new tools, and collaborating with others.
 
-Here are some ideas to get you started:
+## About Me
+- Curious and always learning
+- I like working across the stack—from UI polish to backend logic
+- Open to collaboration and feedback
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech & Tools
+- **Languages:** JavaScript/TypeScript, Python, HTML/CSS
+- **Frameworks:** React, Node.js, Express
+- **Tools:** Git, GitHub Actions, Docker, VS Code
+
+> _Always exploring new tools and patterns to level up._
+
+## What I’m Up To
+- Building small projects to sharpen my skills
+
+## Let’s Connect
+- GitHub: [@Fretuks](https://github.com/Fretuks)
+- Mail: fretux@fretux.ch
+- Discord: Fretux
+
+---
+
+Thanks for stopping by! Feel free to check out my repositories and say hello.
