@@ -8,11 +8,11 @@ Welcome to my GitHub profile! I enjoy turning ideas into clean, readable, and us
 - Open to collaboration and feedback
 
 ## Tech & Tools
-- **Languages:** JavaScript/TypeScript, Python, HTML/CSS
-- **Frameworks:** React, Node.js, Express
-- **Tools:** Git, GitHub Actions, Docker, VS Code
+- **Languages:** JavaScript, Python, HTML/CSS, Java
+- **Frameworks:** Express
+- **Tools:** Git, GitHub Actions, Docker
 
-> _Always exploring new tools and patterns to level up._
+> _Always exploring new tools._
 
 ## What I’m Up To
 - Building small projects to sharpen my skills
