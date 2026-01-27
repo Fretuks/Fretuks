@@ -12,7 +12,7 @@ Welcome to my GitHub profile! I enjoy turning ideas into clean, readable, and us
 
 ## About Me
 - Curious and always learning
-- I like working across the stack—from UI polish to backend logic
+- I like working across the stack, from UI polish to backend logic
 - Open to collaboration and feedback
 
 ## Tech & Tools
@@ -28,9 +28,9 @@ Welcome to my GitHub profile! I enjoy turning ideas into clean, readable, and us
 ## What I’m Up To
 
 ```text
-🌱 Learning: deeper backend patterns + automation
-🛠️ Building: small projects to sharpen my skills
-🤝 Collaboration: open to feedback and pairing
+Learning: deeper backend patterns + automation
+Building: small projects to sharpen my skills
+Collaboration: open to feedback and pairing
 ```
 
 ## Focus Areas
