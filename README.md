@@ -26,12 +26,9 @@ Welcome to my GitHub profile! I enjoy turning ideas into clean, readable, and us
 > _Always exploring new tools._
 
 ## What I’m Up To
-
-```text
 Learning: deeper backend patterns + automation
 Building: small projects to sharpen my skills
 Collaboration: open to feedback and pairing
-```
 
 ## Focus Areas
 
