@@ -46,15 +46,6 @@ Welcome to my GitHub profile! I enjoy turning ideas into clean, readable, and us
   ^^ ^^
 ```
 
-| Iceberg Stop | What Happens There |
-| --- | --- |
-| **Chill & Think** | Idea‑surfing and sketching tiny plans. |
-| **Slide & Build** | Crafting clean, readable features. |
-| **Huddle & Share** | Open to feedback and collaboration. |
-| **Peck & Improve** | Iterating with curiosity and care. |
-
-> 🧊 **Penguin promise:** keep things simple, delightful, and easy to follow.
-
 ## Let’s Connect
 - GitHub: [@Fretuks](https://github.com/Fretuks)
 - Mail: [fretux@fretux.ch](mailto:fretux@fretux.ch)
