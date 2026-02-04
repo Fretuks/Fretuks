@@ -29,15 +29,6 @@ Welcome to my GitHub profile! I enjoy turning ideas into clean, readable, and us
 * Learning: deeper backend patterns + automation
 * Building: small projects to sharpen my skills
 * Collaboration: open to feedback and pairing
-
-## Penguin Path 🐧
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Waddle%20Mode-ON-0ea5e9?style=for-the-badge&logo=gnu" alt="Waddle mode badge" />
-  <img src="https://img.shields.io/badge/Iceberg%20Energy-High-38bdf8?style=for-the-badge&logo=snowflake" alt="Iceberg energy badge" />
-  <img src="https://img.shields.io/badge/Curiosity-100%25-22c55e?style=for-the-badge&logo=pinboard" alt="Curiosity badge" />
-</p>
-
 ```
    _~_
   (o o)  Waddle. Learn. Share.
