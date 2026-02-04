@@ -30,16 +30,30 @@ Welcome to my GitHub profile! I enjoy turning ideas into clean, readable, and us
 * Building: small projects to sharpen my skills
 * Collaboration: open to feedback and pairing
 
-## Focus Areas
+## Penguin Path 🐧
 
-```mermaid
-graph TD;
-  Idea[Idea] --> Plan[Plan + Design]
-  Plan --> Build[Build + Iterate]
-  Build --> Share[Share + Collaborate]
-  Share --> Improve[Learn + Improve]
-  Improve --> Idea;
+<p align="center">
+  <img src="https://img.shields.io/badge/Waddle%20Mode-ON-0ea5e9?style=for-the-badge&logo=gnu" alt="Waddle mode badge" />
+  <img src="https://img.shields.io/badge/Iceberg%20Energy-High-38bdf8?style=for-the-badge&logo=snowflake" alt="Iceberg energy badge" />
+  <img src="https://img.shields.io/badge/Curiosity-100%25-22c55e?style=for-the-badge&logo=pinboard" alt="Curiosity badge" />
+</p>
+
 ```
+   _~_
+  (o o)  Waddle. Learn. Share.
+ /  V  \
+/(  _  )\
+  ^^ ^^
+```
+
+| Iceberg Stop | What Happens There |
+| --- | --- |
+| **Chill & Think** | Idea‑surfing and sketching tiny plans. |
+| **Slide & Build** | Crafting clean, readable features. |
+| **Huddle & Share** | Open to feedback and collaboration. |
+| **Peck & Improve** | Iterating with curiosity and care. |
+
+> 🧊 **Penguin promise:** keep things simple, delightful, and easy to follow.
 
 ## Let’s Connect
 - GitHub: [@Fretuks](https://github.com/Fretuks)
