@@ -1,50 +1,53 @@
-# Hi, I'm Fretux 👋
+# Hey, I’m Fretux 🐧
 
 <p align="center">
   <a href="https://github.com/Fretuks">
     <img src="https://img.shields.io/badge/GitHub-Fretuks-181717?style=for-the-badge&logo=github" alt="GitHub badge" />
   </a>
-  <img src="https://img.shields.io/badge/Location-Switzerland-ef4444?style=for-the-badge&logo=google-maps" alt="Location badge" />
-  <img src="https://img.shields.io/badge/Status-Learning%20Every%20Day-22c55e?style=for-the-badge&logo=readthedocs" alt="Status badge" />
+  <img src="https://img.shields.io/badge/Home-Iceberg%20HQ-0ea5e9?style=for-the-badge" alt="Home badge" />
+  <img src="https://img.shields.io/badge/Current%20Mode-Waddling%20Through%20Code-22c55e?style=for-the-badge" alt="Mode badge" />
 </p>
 
-Welcome to my GitHub profile! I enjoy turning ideas into clean, readable, and user‑friendly software. I’m especially interested in building thoughtful experiences, learning new tools, and collaborating with others.
+Welcome to my little iceberg on GitHub.
+I build things, break things, fix things, and occasionally slide into cleaner solutions than expected.
 
-## About Me
-- Curious and always learning
-- I like working across the stack, from UI polish to backend logic
-- Open to collaboration and feedback
+## Penguin Facts (about me)
+- I like software that feels simple on the outside and solid on the inside.
+- I enjoy moving between frontend polish and backend structure.
+- I learn best by building weird little projects and improving them in public.
 
-## Tech & Tools
+## My Fish Crate (Tech Stack)
 
-| Category | Highlights |
+| Zone | Tools I use |
 | --- | --- |
 | **Languages** | JavaScript, Python, HTML/CSS, Java |
 | **Frameworks** | Express |
 | **Tools** | Git, GitHub Actions, Docker |
 
-> _Always exploring new tools._
+> If it saves time, improves clarity, or removes repetition, I’m probably into it.
 
-## What I’m Up To
-* Learning: deeper backend patterns + automation
-* Building: small projects to sharpen my skills
-* Collaboration: open to feedback and pairing
+## What I’m Working On
+- Sharpening backend and automation skills
+- Building small, practical projects end-to-end
+- Staying open to collaboration, feedback, and idea swaps
 
 ---
 
-```
-   _~_
-  (o o)  Waddle. Learn. Share.
- /  V  \
-/(  _  )\
-  ^^ ^^
+```text
+   .--.
+  |o_o |
+  |:_/ |
+ //   \ \
+(|     | )
+/'\_   _/`\
+\___)=(___/
 ```
 
-## Let’s Connect
+## Say hi
 - GitHub: [@Fretuks](https://github.com/Fretuks)
 - Mail: [fretux@fretux.ch](mailto:fretux@fretux.ch)
 - Discord: Fretux
 
 ---
 
-Thanks for stopping by! Feel free to check out my repositories and say hello.
+Thanks for visiting — grab a fish and explore the repos.
