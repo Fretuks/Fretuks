@@ -1,4 +1,4 @@
-# Hey, I’m Fretux 🐧
+# Hey, I’m Fretux
 
 <p align="center">
   <a href="https://github.com/Fretuks">
