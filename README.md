@@ -11,12 +11,12 @@
 Welcome to my little iceberg on GitHub.
 I build things, break things, fix things, and occasionally slide into cleaner solutions than expected.
 
-## Penguin Facts (about me)
+## About me
 - I like software that feels simple on the outside and solid on the inside.
 - I enjoy moving between frontend polish and backend structure.
 - I learn best by building weird little projects and improving them in public.
 
-## My Fish Crate (Tech Stack)
+## My Fish Crate
 
 | Zone | Tools I use |
 | --- | --- |
