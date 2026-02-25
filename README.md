@@ -4,12 +4,12 @@
   <a href="https://github.com/Fretuks">
     <img src="https://img.shields.io/badge/GitHub-Fretuks-181717?style=for-the-badge&logo=github" alt="GitHub badge" />
   </a>
-  <img src="https://img.shields.io/badge/Home-Iceberg-0ea5e9?style=for-the-badge" alt="Home badge" />
-  <img src="https://img.shields.io/badge/Current%20Mode-Working-22c55e?style=for-the-badge" alt="Mode badge" />
+  <img src="https://img.shields.io/badge/Home-Some%20Iceberg-0ea5e9?style=for-the-badge" alt="Home badge" />
+  <img src="https://img.shields.io/badge/Current%20Mode-Working%20or%20smth-22c55e?style=for-the-badge" alt="Mode badge" />
 </p>
 
 Welcome to my little iceberg on GitHub.
-I build things, break things, fix things, and occasionally slide into cleaner solutions than expected.
+I build things, break things and occassionally fix things.
 
 ## About me
 - I like software that feels simple on the outside and solid on the inside.
