@@ -50,4 +50,4 @@ I build things, break things and occassionally fix things.
 
 ---
 
-Thanks for visiting — grab a fish and explore the repos.
+Thanks for visiting.
