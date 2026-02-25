@@ -4,7 +4,7 @@
   <a href="https://github.com/Fretuks">
     <img src="https://img.shields.io/badge/GitHub-Fretuks-181717?style=for-the-badge&logo=github" alt="GitHub badge" />
   </a>
-  <img src="https://img.shields.io/badge/Home-Iceberg%20HQ-0ea5e9?style=for-the-badge" alt="Home badge" />
+  <img src="https://img.shields.io/badge/Home-Iceberg-0ea5e9?style=for-the-badge" alt="Home badge" />
   <img src="https://img.shields.io/badge/Current%20Mode-Waddling%20Through%20Code-22c55e?style=for-the-badge" alt="Mode badge" />
 </p>
 
