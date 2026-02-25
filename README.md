@@ -8,8 +8,7 @@
   <img src="https://img.shields.io/badge/Current%20Mode-Working%20or%20smth-22c55e?style=for-the-badge" alt="Mode badge" />
 </p>
 
-Welcome to my little iceberg on GitHub.
-I build things, break things and occassionally fix things.
+Welcome to my little iceberg on GitHub where I build things, break things and occassionally fix things.
 
 ## About me
 - I like software that feels simple on the outside and solid on the inside.
