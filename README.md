@@ -1,52 +1,56 @@
-# Hey, I’m Fretux
+<div align="center">
 
-<p align="center">
-  <a href="https://github.com/Fretuks">
-    <img src="https://img.shields.io/badge/GitHub-Fretuks-181717?style=for-the-badge&logo=github" alt="GitHub badge" />
-  </a>
-  <img src="https://img.shields.io/badge/Home-Some%20Iceberg-0ea5e9?style=for-the-badge" alt="Home badge" />
-  <img src="https://img.shields.io/badge/Current%20Mode-Working%20or%20smth-22c55e?style=for-the-badge" alt="Mode badge" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:0EA5E9&height=220&section=header&text=Fretux&fontSize=72&fontColor=ffffff&animation=fadeIn&desc=Penguin%20%F0%9F%90%A7%20%7C%20Gamer%20%F0%9F%8E%AE%20%7C%20Coder%20%F0%9F%92%BB&descAlignY=55&descSize=18" width="100%"/>
 
-Welcome to my little iceberg on GitHub where I build things, break things and occassionally fix things.
+<a href="https://github.com/Fretuks">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1200&color=38BDF8&center=true&vCenter=true&width=600&lines=Building+things...+breaking+things...;Slidin%27+on+the+iceberg+%F0%9F%90%A7;Currently+respawning+%F0%9F%8E%AE;Shipping+weird+little+projects+%F0%9F%9A%80" alt="Typing SVG" />
+</a>
 
-## About me
-- I like software that feels simple on the outside and solid on the inside.
-- I enjoy moving between frontend polish and backend structure.
-- I learn best by building weird little projects and improving them in public.
+<br/>
 
-## My Fish Crate
+<img src="https://img.shields.io/badge/GitHub-Fretuks-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/Mail-fretux%40fretux.ch-0EA5E9?style=for-the-badge&logo=protonmail&logoColor=white" />
+<img src="https://img.shields.io/badge/Discord-Fretux-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
 
-| Zone | Tools I use |
-| --- | --- |
-| **Languages** | JavaScript, Python, HTML/CSS, Java |
-| **Frameworks** | Express |
-| **Tools** | Git, GitHub Actions, Docker |
+</div>
 
-> If it saves time, improves clarity, or removes repetition, I’m probably into it.
-
-## What I’m Working On
-- Sharpening backend and automation skills
-- Building small, practical projects end-to-end
-- Staying open to collaboration, feedback, and idea swaps
-
----
+<br/>
 
 ```text
-   .--.
-  |o_o |
-  |:_/ |
- //   \ \
-(|     | )
-/'\_   _/`\
-\___)=(___/
+        .--.
+       |o_o |     ~ home: some iceberg
+       |:_/ |     ~ status: compiling...
+      //   \ \
+     (|     | )
+    /'\_   _/`\
+    \___)=(___/
 ```
 
-## Say hi
-- GitHub: [@Fretuks](https://github.com/Fretuks)
-- Mail: [fretux@fretux.ch](mailto:fretux@fretux.ch)
-- Discord: Fretux
+<div align="center">
 
----
+### 🧊 Tech Stack
 
-Thanks for visiting.
+<img src="https://skillicons.dev/icons?i=js,py,html,css,java,express,git,githubactions,docker&theme=dark" />
+
+<br/><br/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=Fretuks&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Fretuks&theme=tokyonight&hide_border=true" height="165"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fretuks&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+
+### 🏆 Achievements
+
+<img src="https://github-profile-trophy.vercel.app/?username=Fretuks&theme=tokyonight&no-frame=true&row=1&column=6" />
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0EA5E9,100:0F2027&height=3&width=100%" />
+
+<div align="center">
+
+🐧 **penguins** · 🎮 **gaming** · 💻 **code** — repeat forever
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,50:2C5364,100:0F2027&height=120&section=footer" width="100%"/>
