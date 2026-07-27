@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:0EA5E9&height=220&section=header&text=Fretux&fontSize=72&fontColor=ffffff&animation=fadeIn&desc=Penguin%20%F0%9F%90%A7%20%7C%20Gamer%20%F0%9F%8E%AE%20%7C%20Coder%20%F0%9F%92%BB&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:0EA5E9&height=260&section=header&text=Fretux&fontSize=64&fontAlignY=38&fontColor=ffffff&animation=fadeIn&desc=Penguin%20%F0%9F%90%A7%20%7C%20Gamer%20%F0%9F%8E%AE%20%7C%20Coder%20%F0%9F%92%BB&descAlignY=58&descSize=18" width="100%"/>
 
 <a href="https://github.com/Fretuks">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1200&color=38BDF8&center=true&vCenter=true&width=600&lines=Building+things...+breaking+things...;Slidin%27+on+the+iceberg+%F0%9F%90%A7;Currently+respawning+%F0%9F%8E%AE;Shipping+weird+little+projects+%F0%9F%9A%80" alt="Typing SVG" />
@@ -34,14 +34,13 @@
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Fretuks&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Fretuks&theme=tokyonight&hide_border=true" height="165"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fretuks&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+<br/><br/>
 
-### 🏆 Achievements
-
-<img src="https://github-profile-trophy.vercel.app/?username=Fretuks&theme=tokyonight&no-frame=true&row=1&column=6" />
+<img src="https://img.shields.io/github/followers/Fretuks?style=for-the-badge&logo=github&logoColor=white&label=Followers&color=0EA5E9" />
+<img src="https://img.shields.io/badge/Player%20Level-42-8B5CF6?style=for-the-badge&logo=nintendoswitch&logoColor=white" />
+<img src="https://img.shields.io/badge/Penguin%20Status-Online-0EA5E9?style=for-the-badge&logo=ubuntu&logoColor=white" />
 
 </div>
 
